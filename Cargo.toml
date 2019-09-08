@@ -1,0 +1,11 @@
+[package]
+name = "udhrlen"
+version = "0.1.0"
+authors = ["Henri Sivonen <hsivonen@hsivonen.fi>"]
+edition = "2018"
+
+[dependencies]
+unicode-width = "0.1.5"
+unic-segment = "0.9.0"
+quick-xml = "0.14.0"
+unic-normal = "0.9.0"
